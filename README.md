@@ -7,4 +7,4 @@ npm init -y
 
 npm install electron
 
-
+And execute "start.bat"
